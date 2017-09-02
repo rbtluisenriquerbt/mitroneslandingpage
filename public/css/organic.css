@@ -1,0 +1,23 @@
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+::-webkit-scrollbar { display: none; }
+
+.full-height{
+  height : 50vh
+}
+
+.fifth_height{
+  height : 20vh
+}
+
+.mid-height{
+  height: 80vh
+}
